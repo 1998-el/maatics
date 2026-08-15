@@ -40,7 +40,7 @@ export default function Hero({ onContactClick }: HeroProps) {
 
           {/* Description */}
           <p className="mt-4 text-sm leading-relaxed text-[#c9d1d9] sm:mt-6 sm:text-base lg:text-lg">
-            Matiq conçoit votre site web, votre application mobile, votre SaaS, votre vidéosurveillance et vos panneaux solaires intelligents, avec un seul partenaire à votre écoute.
+            Maatics conçoit votre site web, votre application mobile, votre SaaS, votre vidéosurveillance et vos panneaux solaires intelligents, avec un seul partenaire à votre écoute.
           </p>
 
           {/* Boutons */}
